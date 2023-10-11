@@ -1,0 +1,5 @@
+I followed this tutorial https://www.youtube.com/watch?v=lS1GwdIfk0c
+
+Just run the app, which will also start a PostgreSql DB  docker container...and you can then open the browser
+and navigate to http://localhost:8080/api/posts to see the posts from the DB
+
